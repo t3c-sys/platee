@@ -79,6 +79,7 @@ img:hover {
     background-color: var(--clr-font);
     width: 100%;
     opacity: 0.5;
+	margin: 1rem 0rem 0.5rem 0rem;
 }
 
 section {
