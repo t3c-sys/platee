@@ -85,6 +85,8 @@ img:hover {
 article {
 	margin: 2.5rem auto;
 	padding: 1rem;
+	padding-bottom: 5rem;
+	
 	max-width: 800px;
 	border-left: 1px solid var(--clr-accent);
 	height: auto;
